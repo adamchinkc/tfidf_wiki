@@ -17,6 +17,28 @@ Using TFIDF alone is not recommended for topic modeling in news topic. Other fac
 
 For any enquires, please contact me at adam.kc.chin@gmail.com. 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ----------------------------------------------
 MIT License
 
