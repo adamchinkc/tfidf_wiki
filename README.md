@@ -1,12 +1,12 @@
 # topic_modelling_tfidf
-Topic Modelling TFIDF Optimization in Chinese News
+Topic Modelling Optimization in Chinese News Article
 
 
 Objective
 ---------------------------------------------
-This project intends to find a fast way to identify the keywords for the news article. Based on the feature of news article, TFIDF allows quick use of new keywords identified and fixs the trends of using new words/ new phrases in news. 
+This project intends to find a fast way to identify the keywords for the news article. Based on the feature of news article, term frequency–inverse document frequency (tf-idf) allows quick use of new keywords identified and fixs the trends of using new words/ new phrases in news. 
 
-In this project, IDF is calculated by using the articles in Wikipedia. The adoption of TFIDF is fast and more accurate than using only a few articles in recent time, which would enlarge IDF when some hot topics are frequently discussed.
+In this project, idf is calculated by using the articles in Wikipedia. The adoption of TFIDF is fast and more accurate than using only a few articles in recent time, which would enlarge IDF when some hot topics are frequently discussed.
 
 
 
