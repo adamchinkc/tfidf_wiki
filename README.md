@@ -1,4 +1,4 @@
-# topic_modelling_tfidf
+# topic_modeling_tfidf
 Topic Modelling Optimization in Chinese News Article
 
 
