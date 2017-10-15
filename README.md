@@ -1,5 +1,5 @@
-# topic_modeling_tfidf
-Topic Modeling TFIDF Optimization in Chinese News
+# topic_modelling_tfidf
+Topic Modelling TFIDF Optimization in Chinese News
 
 
 Objective
@@ -12,7 +12,7 @@ In this project, IDF is calculated by using the articles in Wikipedia. The adopt
 
 Limitation
 ---------------------------------------------
-Using TFIDF alone is not recommended for topic modeling in news topic. Other factors like trendiness, coexictence of keywords and noise of some common words would also be considered when constructing a topic model. 
+Using TFIDF alone is not recommended for topic modelling in news topic. Other factors like trendiness, coexictence of keywords and noise of some common words would also be considered when constructing a topic model. 
 
 
 For any enquires, please contact me at adam.kc.chin@gmail.com. 
