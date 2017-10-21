@@ -1,5 +1,4 @@
-# Keywords_extraction_tfidf
-Keywords extraction with TFIDF
+# Keywords Extraction by using TFIDF score
 
 Objective
 ---------------------------------------------
