@@ -1,6 +1,5 @@
-# topic_modeling_tfidf
-Topic Modelling Optimization in Chinese News Article
-
+# Keywords_extraction_tfidf
+Keywords extraction with TFIDF
 
 Objective
 ---------------------------------------------
