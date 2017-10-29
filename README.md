@@ -6,7 +6,9 @@ This project intends to find a fast way to identify the keywords in the news art
 
 In this project, IDF is calculated by using the articles in Wikipedia. The adoption of TFIDF is fast and more accurate than using only a few articles in recent time, which would enlarge IDF when some hot topics are frequently discussed.
 
+![](https://cdn-images-1.medium.com/max/800/1*8XpbsR4HdAHBXy5MgpIyug.png)
 
+For illustration and explanation of the code, please refer to my article [Here](https://hackernoon.com/the-fastest-way-to-identify-keywords-in-news-articles-tfidf-with-wikipedia-python-version-baf874d7eb16)
 
 Limitation
 ---------------------------------------------
